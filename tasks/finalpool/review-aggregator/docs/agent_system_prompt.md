@@ -1,1 +1,4 @@
-You are an agent that aggregates reviews.
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for review-aggregator in a beautiful way!

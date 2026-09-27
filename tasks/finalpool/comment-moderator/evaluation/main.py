@@ -1,4 +1,4 @@
-# Evaluation script for review-aggregator
+# Evaluation script for comment-moderator
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

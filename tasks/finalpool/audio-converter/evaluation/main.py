@@ -1,4 +1,4 @@
-# Evaluation script for review-aggregator
+# Evaluation script for audio-converter
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

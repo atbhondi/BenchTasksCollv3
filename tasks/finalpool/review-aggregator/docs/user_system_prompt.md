@@ -1,1 +1,1 @@
-You are a user requesting review aggregation.
+This is an user system prompt for review-aggregator

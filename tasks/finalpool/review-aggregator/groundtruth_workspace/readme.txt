@@ -1,1 +1,1 @@
-Ground truth for review-aggregator
+Groundtruth data for review-aggregator
